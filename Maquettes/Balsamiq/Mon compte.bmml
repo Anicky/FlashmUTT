@@ -1,0 +1,39 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="282" measuredH="510" mockupW="282" mockupH="510">
+  <controls>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Component" x="0" y="0" w="282" h="510" measuredW="282" measuredH="510" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/Fond.bmml</src>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="49" y="250" w="184" h="24" measuredW="173" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Modifier%20mes%20informations</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="49" y="203" w="184" h="24" measuredW="147" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mes%20points%20de%20fid%E9lit%E9</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::Button" x="49" y="299" w="184" h="24" measuredW="150" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Historique%20des%20visites</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::PointyButton" x="34" y="108" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>left</direction>
+        <href>Menu%20principal%26bm%3BMenu%20principal.bmml%26bm%3BMenu%20principal.bmml%26bm%3BMenu%20principal.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C108%2C94%2C135%22%20href%3D%22Menu%2520principal.bmml%22%20alt%3D%22Menu%20principal%22%20id%3D%2218%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <state>up</state>
+        <text>Retour</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Canvas" x="28" y="139" w="225" h="285" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

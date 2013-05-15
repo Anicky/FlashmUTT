@@ -1,0 +1,8 @@
+﻿# System
+
+.DS_Store
+Thumbs.db
+
+# Other
+
+/nbproject/

@@ -8,29 +8,29 @@
     xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmpMM:InstanceID="xmp.iid:14A84DC97BCEE211942B84E22B6EB682"
-   xmpMM:DocumentID="xmp.did:12A84DC97BCEE211942B84E22B6EB682"
-   xmpMM:OriginalDocumentID="xmp.did:12A84DC97BCEE211942B84E22B6EB682"
-   xmp:MetadataDate="2013-06-06T09:45:32+02:00"
-   xmp:CreateDate="2013-06-06T09:45:26.00313+02:00"
-   xmp:ModifyDate="2013-06-06T09:45:31.00217+02:00"
+   xmpMM:InstanceID="xmp.iid:8E0B75EDD3D2E211901AEAC3C68BA334"
+   xmpMM:DocumentID="xmp.did:907EA69DD3D2E211901AEAC3C68BA334"
+   xmpMM:OriginalDocumentID="xmp.did:907EA69DD3D2E211901AEAC3C68BA334"
+   xmp:MetadataDate="2013-06-11T22:17:23+02:00"
+   xmp:CreateDate="2013-06-11T22:17:22.0091+02:00"
+   xmp:ModifyDate="2013-06-11T22:17:23.00645+02:00"
    xmpDM:videoFrameRate="25.000000"
    xmpDM:videoFieldOrder="Progressive"
    xmpDM:videoPixelAspectRatio="1/1"
-   xmpDM:previewRenderOriginalHadNoAlpha="True"
+   xmpDM:previewRenderOriginalHadNoAlpha="False"
    dc:format="MPEG Preview">
    <xmpMM:History>
     <rdf:Seq>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:13A84DC97BCEE211942B84E22B6EB682"
-      stEvt:when="2013-06-06T09:45:32+02:00"
+      stEvt:instanceID="xmp.iid:8D0B75EDD3D2E211901AEAC3C68BA334"
+      stEvt:when="2013-06-11T22:17:23+02:00"
       stEvt:softwareAgent="Adobe Premiere Pro 5.0"
       stEvt:changed="/metadata"/>
      <rdf:li
       stEvt:action="saved"
-      stEvt:instanceID="xmp.iid:14A84DC97BCEE211942B84E22B6EB682"
-      stEvt:when="2013-06-06T09:45:32+02:00"
+      stEvt:instanceID="xmp.iid:8E0B75EDD3D2E211901AEAC3C68BA334"
+      stEvt:when="2013-06-11T22:17:23+02:00"
       stEvt:softwareAgent="Adobe Premiere Pro 5.0"
       stEvt:changed="/metadata"/>
     </rdf:Seq>

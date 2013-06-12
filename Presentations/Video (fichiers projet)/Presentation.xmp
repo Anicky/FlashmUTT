@@ -10,19 +10,21 @@
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
-   xmpMM:InstanceID="xmp.iid:71538AF444D3E211BC58B52F0A162429"
+   xmpMM:InstanceID="xmp.iid:90F42AE454D3E211A662B22E0AEFE740"
    xmpMM:DocumentID="xmp.did:C5847889DED2E211901AEAC3C68BA334"
    xmpMM:OriginalDocumentID="xmp.did:C5847889DED2E211901AEAC3C68BA334"
-   xmp:MetadataDate="2013-06-12T12:12:10+02:00"
+   xmp:MetadataDate="2013-06-12T13:40:33+02:00"
    xmp:CreatorTool="Adobe Premiere Pro 5.0"
    xmp:CreateDate="2013-06-11T23:35:50.00518+02:00"
-   xmp:ModifyDate="2013-06-12T12:12:10+02:00"
+   xmp:ModifyDate="2013-06-12T13:40:33+02:00"
    xmpDM:videoFrameRate="25.000000"
    xmpDM:videoFieldOrder="Progressive"
    xmpDM:videoPixelAspectRatio="1/1"
    xmpDM:audioSampleRate="48000"
    xmpDM:audioSampleType="16Int"
    xmpDM:audioChannelType="Stereo"
+   xmpDM:startTimeScale="25"
+   xmpDM:startTimeSampleSize="1"
    dc:format="MPEG Preview">
    <xmpMM:History>
     <rdf:Seq>
@@ -62,6 +64,32 @@
       stEvt:action="created"
       stEvt:instanceID="xmp.iid:6F538AF444D3E211BC58B52F0A162429"
       stEvt:when="2013-06-12T11:48:51+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"/>
+     <rdf:li
+      stEvt:action="modified"
+      stEvt:parameters="unknown modifications"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:AE33134E51D3E211A662B22E0AEFE740"
+      stEvt:when="2013-06-12T13:40:33+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"
+      stEvt:changed="/metadata;/content"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:90F42AE454D3E211A662B22E0AEFE740"
+      stEvt:when="2013-06-12T13:40:33+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:72538AF444D3E211BC58B52F0A162429"
+      stEvt:when="2013-06-12T12:12:10+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"
+      stEvt:changed="/metadata/xmpDM/Tracks"/>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:AD33134E51D3E211A662B22E0AEFE740"
+      stEvt:when="2013-06-12T13:17:28+02:00"
       stEvt:softwareAgent="Adobe Premiere Pro 5.0"/>
     </rdf:Seq>
    </xmpMM:History>
@@ -216,6 +244,12 @@
       stRef:maskMarkers="None"/>
      <rdf:li
       stRef:instanceID="xmp.iid:6E538AF444D3E211BC58B52F0A162429"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:3698472960000f254016000000d1615541760000f254016000000"
+      stRef:filePath="boutique.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:AC33134E51D3E211A662B22E0AEFE740"
       stRef:fromPart="time:0"
       stRef:toPart="time:3698472960000f254016000000d1615541760000f254016000000"
       stRef:filePath="boutique.png"
@@ -633,6 +667,8 @@
      </rdf:li>
      <rdf:li
       xmpMM:InstanceID="xmp.iid:6E538AF444D3E211BC58B52F0A162429"/>
+     <rdf:li
+      xmpMM:InstanceID="xmp.iid:AC33134E51D3E211A662B22E0AEFE740"/>
     </rdf:Bag>
    </xmpMM:Pantry>
    <xmpDM:projectRef

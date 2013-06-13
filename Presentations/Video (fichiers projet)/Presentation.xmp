@@ -10,13 +10,13 @@
     xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:creatorAtom="http://ns.adobe.com/creatorAtom/1.0/"
-   xmpMM:InstanceID="xmp.iid:90F42AE454D3E211A662B22E0AEFE740"
+   xmpMM:InstanceID="xmp.iid:8A29BD17ACD3E211B3D9CADC4045DEBC"
    xmpMM:DocumentID="xmp.did:C5847889DED2E211901AEAC3C68BA334"
    xmpMM:OriginalDocumentID="xmp.did:C5847889DED2E211901AEAC3C68BA334"
-   xmp:MetadataDate="2013-06-12T13:40:33+02:00"
+   xmp:MetadataDate="2013-06-13T00:33:59+02:00"
    xmp:CreatorTool="Adobe Premiere Pro 5.0"
    xmp:CreateDate="2013-06-11T23:35:50.00518+02:00"
-   xmp:ModifyDate="2013-06-12T13:40:33+02:00"
+   xmp:ModifyDate="2013-06-13T00:33:59+02:00"
    xmpDM:videoFrameRate="25.000000"
    xmpDM:videoFieldOrder="Progressive"
    xmpDM:videoPixelAspectRatio="1/1"
@@ -90,6 +90,26 @@
       stEvt:action="created"
       stEvt:instanceID="xmp.iid:AD33134E51D3E211A662B22E0AEFE740"
       stEvt:when="2013-06-12T13:17:28+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"/>
+     <rdf:li
+      stEvt:action="modified"
+      stEvt:parameters="unknown modifications"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:8929BD17ACD3E211B3D9CADC4045DEBC"
+      stEvt:when="2013-06-13T00:33:59+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"
+      stEvt:changed="/metadata;/content"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:8A29BD17ACD3E211B3D9CADC4045DEBC"
+      stEvt:when="2013-06-13T00:33:59+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro 5.0"
+      stEvt:changed="/metadata"/>
+     <rdf:li
+      stEvt:action="created"
+      stEvt:instanceID="xmp.iid:8829BD17ACD3E211B3D9CADC4045DEBC"
+      stEvt:when="2013-06-13T00:07:34+02:00"
       stEvt:softwareAgent="Adobe Premiere Pro 5.0"/>
     </rdf:Seq>
    </xmpMM:History>
@@ -253,6 +273,152 @@
       stRef:fromPart="time:0"
       stRef:toPart="time:3698472960000f254016000000d1615541760000f254016000000"
       stRef:filePath="boutique.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:07EF1278DAD2E211901AEAC3C68BA334"
+      stRef:documentID="xmp.did:07EF1278DAD2E211901AEAC3C68BA334"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:8941363200000f254016000000d457228800000f254016000000"
+      stRef:filePath="notification.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:0CA84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:0CA84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:5364817920000f254016000000d985582080000f254016000000"
+      stRef:filePath="realitee_augmentee_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:0DA84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:0DA84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:4541806080000f254016000000d823011840000f254016000000"
+      stRef:filePath="scan_qrcode.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:0DA84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:0DA84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:6888913920000f254016000000d1056706560000f254016000000"
+      stRef:filePath="scan_qrcode.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:0EA84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:0EA84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:2428392960000f254016000000d1087188480000f254016000000"
+      stRef:filePath="selection_pizzeria.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:0FA84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:0FA84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:8941363200000f254016000000d680762880000f254016000000"
+      stRef:filePath="smartphone.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:11A84DC97BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:11A84DC97BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1442810880000f254016000000d690923520000f254016000000"
+      stRef:filePath="sous_categorie_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:145CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:145CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:11003973120000f254016000000d2347107840000f254016000000"
+      stRef:filePath="calcul_itineraire_modifiee.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:145CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:145CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:3505420800000f254016000000d701084160000f254016000000"
+      stRef:filePath="calcul_itineraire_modifiee.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:11003973120000f254016000000d2347107840000f254016000000"
+      stRef:filePath="categorie_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:762048000000f254016000000d12589032960000f254016000000"
+      stRef:filePath="categorie_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:175CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:762048000000f254016000000d680762880000f254016000000"
+      stRef:filePath="categorie_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:185CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:185CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:10008230400000f254016000000d995742720000f254016000000"
+      stRef:filePath="description_evenement.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:195CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:195CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:9195379200000f254016000000d1066867200000f254016000000"
+      stRef:filePath="liste_evenement.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:1B5CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:1B5CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:1910200320000f254016000000d741726720000f254016000000"
+      stRef:filePath="liste_pizzeria_2.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:1C5CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:1C5CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:11003973120000f254016000000d2347107840000f254016000000"
+      stRef:filePath="noter_commerce.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:1C5CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:1C5CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:7945620480000f254016000000d701084160000f254016000000"
+      stRef:filePath="noter_commerce.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:1D5CE0C27BCEE211942B84E22B6EB682"
+      stRef:documentID="xmp.did:1D5CE0C27BCEE211942B84E22B6EB682"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:11003973120000f254016000000d2347107840000f254016000000"
+      stRef:filePath="points_fidelite_categorie.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:8729BD17ACD3E211B3D9CADC4045DEBC"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:4206504960000f254016000000d2143895040000f254016000000"
+      stRef:filePath="boutique.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:CBD2B9EED7D2E211901AEAC3C68BA334"
+      stRef:documentID="xmp.did:CBD2B9EED7D2E211901AEAC3C68BA334"
+      stRef:fromPart="time:0"
+      stRef:toPart="time:6573934080000f254016000000d1371686400000f254016000000"
+      stRef:filePath="ticket-de-caisse.png"
+      stRef:maskMarkers="None"/>
+     <rdf:li
+      stRef:instanceID="xmp.iid:CBDFE7D1CDD2E211901AEAC3C68BA334"
+      stRef:documentID="xmp.did:CBDFE7D1CDD2E211901AEAC3C68BA334"
+      stRef:fromPart="time:0d13727024640000f254016000000"
+      stRef:toPart="time:0d13727024640000f254016000000"
+      stRef:filePath="Musique.mp3"
       stRef:maskMarkers="None"/>
     </rdf:Bag>
    </xmpMM:Ingredients>
@@ -669,6 +835,8 @@
       xmpMM:InstanceID="xmp.iid:6E538AF444D3E211BC58B52F0A162429"/>
      <rdf:li
       xmpMM:InstanceID="xmp.iid:AC33134E51D3E211A662B22E0AEFE740"/>
+     <rdf:li
+      xmpMM:InstanceID="xmp.iid:8729BD17ACD3E211B3D9CADC4045DEBC"/>
     </rdf:Bag>
    </xmpMM:Pantry>
    <xmpDM:projectRef
